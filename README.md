@@ -1,2 +1,1 @@
-# Portfolio-MVO
-Portfolio MVO MODEL
+# Portfolio-ETF Selection&Optimzer
